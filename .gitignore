@@ -1,0 +1,4 @@
+*.pyc
+db.sqLite3
+static/
+
